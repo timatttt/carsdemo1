@@ -1,0 +1,334 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+:focus,
+:active {
+  outline: none;
+}
+a:focus,
+a:active {
+  outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+button {
+  cursor: pointer;
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.test-drive li {
+  display: inline-block;
+  font-size: 19px;
+  margin-left: 30px;
+}
+.botton {
+  font-size: 15px;
+  background-color: rgb(199, 8, 26);
+  border-radius: 3px;
+  padding: 5px 7px 5px 7px;
+  color: aliceblue;
+  margin-left: 30px;
+}
+.test-drive {
+  background-color: rgb(237, 237, 237);
+  padding: 15px 0;
+
+  text-align: center;
+}
+.pages {
+  display: flex;
+  justify-content: center;
+}
+
+.topcar1 {
+  text-align: center;
+  margin: 60px 25px 0px 0px;
+}
+.topcar1 h2 {
+  color: rgb(199, 8, 26);
+  font-weight: 800;
+  font-size: 26px;
+}
+.topcar1 p {
+  width: 350px;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+}
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+:focus,
+:active {
+  outline: none;
+}
+a:focus,
+a:active {
+  outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+button {
+  cursor: pointer;
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+a,
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+ul li {
+  list-style: none;
+}
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.test-drive li {
+  display: inline-block;
+  font-size: 19px;
+  margin-left: 30px;
+}
+.botton {
+  font-size: 15px;
+  background-color: rgb(199, 8, 26);
+  border-radius: 3px;
+  padding: 5px 7px 5px 7px;
+  color: aliceblue;
+  margin-left: 30px;
+}
+.test-drive {
+  background-color: rgb(237, 237, 237);
+  padding: 15px 0;
+
+  text-align: center;
+}
+.pages {
+  display: flex;
+  justify-content: center;
+}
+
+.topcar1 {
+  text-align: center;
+  margin: 60px 25px 0px 0px;
+}
+.topcar1 h2 {
+  color: rgb(199, 8, 26);
+  font-weight: 800;
+  font-size: 26px;
+}
+.topcar1 p {
+  width: 350px;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px;
+}
+.header-body {
+  background-image: url(../image/slide-show4.jpg);
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+  width: 1423px;
+  height: 350px;
+}
+.fff {
+  content: "";
+
+  background-size: cover;
+  object-fit: cover;
+  background-position: center;
+}
+.header {
+}
+.textnav {
+  display: inline;
+  margin: 0px auto;
+  width: 100%;
+}
+.textnav li {
+  display: flex;
+  justify-content: end;
+}
+.headercon {
+  background: rgb(0, 0, 0, 0.4);
+}
+.auto {
+  padding-right: 130px;
+  margin-left: 400px;
+  display: inline-block;
+  color: white;
+  font-size: 20px;
+}
+
+.headercon li {
+  font-weight: 600;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+}
+.headercon li:hover {
+  background-color: rgb(216, 2, 2);
+}
+
+.plus1 {
+  font-size: 30px;
+}
+
+.inventory {height: 300px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+ 
+ 
+}
+.inventory h2 {
+  
+}
+/* You could use :after - it doesn't really matter */
+.inventory:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0.2;
+  background-image: url(../image/parallax1.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+  background-position: center;
+}
+.inv1 p{ width: 370px;
+  text-align: center;
+  font-size: 16px;
+  padding: 15px;}
+  .inv1 h2{text-align: center;}.inv1{margin: 60px 25px 0px 0px;}
